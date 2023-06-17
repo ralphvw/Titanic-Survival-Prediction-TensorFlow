@@ -1,5 +1,3 @@
-Certainly! Here's a README template for the suggested GitHub repository name:
-
 # Titanic Survival Prediction with TensorFlow
 
 This repository contains a Jupyter Notebook that demonstrates the use of TensorFlow to train a model on the Titanic dataset for predicting the probabilities of survival for passengers.
