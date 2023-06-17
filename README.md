@@ -8,8 +8,6 @@ This repository contains a Jupyter Notebook that demonstrates the use of TensorF
 
 The Titanic dataset used in this project consists of information about Titanic passengers, such as age, gender, ticket class, and whether they survived or not. The goal is to build a machine learning model that can predict the survival probabilities based on these features.
 
-The dataset can be found in the `data` directory, along with a README file explaining the dataset's structure and variables.
-
 ## Dependencies
 
 To run the Jupyter Notebook successfully, you need to have the following dependencies installed:
